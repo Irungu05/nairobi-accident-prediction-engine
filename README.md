@@ -1,4 +1,4 @@
-# 🚗 Two-Step Hierarchical ML Framework for Urban Traffic Risk & Severity Prediction
+# Two-Step Hierarchical ML Framework for Urban Traffic Risk & Severity Prediction
 
 A two-step hierarchical machine learning framework designed to predict urban traffic accident occurrence, severity, and spatial risk in Nairobi, Kenya. 
 
